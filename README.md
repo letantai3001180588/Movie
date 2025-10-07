@@ -10,6 +10,7 @@ Official website: [https://movie-4lc1.onrender.com/](https://movie-4lc1.onrender
 
 The Movie Database API
 
+
 ## Main technology used
 - ReactJS, Typescript, TailwindCSS
 - Redux-Toolkit
