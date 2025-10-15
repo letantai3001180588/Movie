@@ -21,6 +21,7 @@ The Movie Database API
 
 ## Features
 
+
 - Well-designed homepage/detail/watching pages.
 - Sort/filter (query-params based).
 - Search by name, with suggestion keywords, filter result by type.
