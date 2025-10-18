@@ -32,6 +32,7 @@ The Movie Database API
 
 ## Screenshots, Preview
 
+
 ![Screenshot 1](https://i.ibb.co/4WM6xSp/home.png)
 
 ![Screenshot 2](https://i.ibb.co/CB0694y/detail.png)
