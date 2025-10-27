@@ -19,8 +19,7 @@ The Movie Database API
 - React-AutoAnimate, React-Select, React-Toastify, React-Circular-Progressbar, React-Infinite-Scroll-Component, React-Lazy-Load-Image-Component, React-Icons, React-Router-Dom
 - Formik, Yup
 
-## Features
-
+## Feature
 
 - Well-designed homepage/detail/watching pages.
 - Sort/filter (query-params based).
